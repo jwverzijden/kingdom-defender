@@ -1,0 +1,3 @@
+#!/bin/bash
+/mnt/c/software/PocketStarEmu_V0.4/pocketstaremu.exe ${PWD##*/}.ino.pocketstar.bin -cycles -scale8 -nosd
+
